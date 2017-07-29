@@ -4,6 +4,8 @@ A simple and super light Vue.js component for simple toggle burtton (switch)
 
 No dependencies. No sass/less compilation. Very easy to use :).
 
+[Static image demo](https://drive.google.com/file/d/0BwXZXJf4wVh0cXhHZXVkV3Z2V28/view?usp=sharing)
+
 ## Installation
 
 ```bash
