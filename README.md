@@ -43,9 +43,9 @@ Override the relevant classes to customize it. For example, to make it blue inst
 
 ```css
     .vue-libs-simple-toggle input:checked + .slider {
-        background-color: blue;
+        background-color: blue!important;
     }
     .vue-libs-simple-toggle input:focus + .slider {
-        box-shadow: 0 0 1px blue;
+        box-shadow: 0 0 1px blue!important;
     }
 ```
