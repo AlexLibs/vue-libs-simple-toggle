@@ -1,6 +1,6 @@
 {
   "name": "vue-libs-simple-toggle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and very light vue.js (v2) toggle component",
   "main": "vue_libs_simple_toggle.vue",
   "scripts": {
