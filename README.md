@@ -1,6 +1,6 @@
 # Vue Simple Toggle (Switch)
 
-A simple and super light Vue.js component for simple toggle burtton (switch)
+A simple and super light Vue.js component for simple toggle burtton (switch) with a nice smooth transition.
 
 No dependencies. No sass/less compilation. Very easy to use :).
 
