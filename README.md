@@ -6,6 +6,9 @@ No dependencies. No sass/less compilation. Very easy to use :).
 
 <img src="https://raw.githubusercontent.com/AlexLibs/vue-libs-simple-toggle/master/demo/vue-libs-simple-toggle-demo.png" /><br>
 
+
+[How it looks DEMO](https://jsfiddle.net/bqqydhjL/3/show/)
+
 ## Installation
 
 ```bash
