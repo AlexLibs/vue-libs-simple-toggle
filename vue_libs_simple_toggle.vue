@@ -1,6 +1,6 @@
 <template>
     <label class="vue-libs-simple-toggle">
-        <input type="checkbox" v-model="model">
+        <input type="checkbox" v-model="model" :disabled="isDisabled">
         <span class="slider round"></span>
     </label>
 </template>
@@ -10,10 +10,12 @@
         data() {
             return {
                 model: this.value,
+                isDisabled: this.disabled,
             };
         },
         props: [
             'value',
+            'disabled',
         ],
         methods: {
         },
